@@ -3,6 +3,7 @@
 	<name>PythonDomain</name>
 	<comment></comment>
 	<projects>
+		<project>PythonUtils</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
